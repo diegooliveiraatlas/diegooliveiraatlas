@@ -1,4 +1,4 @@
-- 👋 Olã, eu sou o Diego Oliveira (@diegooliveiraatlas)
+- 👋 Olá, eu sou o Diego Oliveira (@diegooliveiraatlas)
 - 👀 Colaborador da Atlas Inovações
 - 🌱 Sou Techlead do time do AFM-Encargos
 

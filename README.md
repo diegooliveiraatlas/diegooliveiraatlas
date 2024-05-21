@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Diego Oliveira (@diegooliveiraatlas)
 - 👀 Colaborador da Atlas Inovações
-- 🌱 Sou Techlead do time do AFM-Encargos
+- 🌱 Sou Techlead do time do Gestão
 
 <!---
 diegooliveiraatlas/diegooliveiraatlas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
